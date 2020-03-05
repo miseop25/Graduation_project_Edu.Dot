@@ -8,6 +8,7 @@
   또한 마이크를 통해 한국어 음성입력을 받아오고 이를 점자로 변환하여 원하는 단어를 점자로 즉시 표현 가능합니다. 
   
   본 프로젝트으 소스코드는 다음 링크에 있습니다.
+  
   [소스코드 보기](https://github.com/Sungmin-Joo/Graduation-Project)
 
 ![IMG_4609](https://user-images.githubusercontent.com/44546283/64489187-eb820f80-d28a-11e9-84c9-d70193c95afe.jpeg)
