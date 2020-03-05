@@ -9,7 +9,7 @@
   
   본 프로젝트으 소스코드는 다음 링크에 있습니다.
   
-  [소스코드 보기](https://github.com/Sungmin-Joo/Graduation-Project)
+  [소스코드 보기](https://github.com/Sungmin-Joo/Graduation-Project/blob/master/Eud.dot_first_confirm/Graduation_product_ver2.4.py)
 
 ![IMG_4609](https://user-images.githubusercontent.com/44546283/64489187-eb820f80-d28a-11e9-84c9-d70193c95afe.jpeg)
 
